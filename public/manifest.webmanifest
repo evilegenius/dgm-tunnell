@@ -1,0 +1,56 @@
+{
+  "id": "/app",
+  "name": "DGM TUNNEL",
+  "short_name": "DGM",
+  "description": "DGM TUNNEL — Celui qui demeure. Accède à tes configurations de façon sécurisée, directement depuis ton téléphone.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "/app",
+  "scope": "/app",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#0a0a0f",
+  "theme_color": "#00f0ff",
+  "categories": ["utilities", "productivity"],
+  "screenshots": [
+    {
+      "src": "https://readdy.ai/api/search-image?query=dark%20mobile%20app%20login%20screen%20mockup%20with%20a%20token%20input%20field%20and%20glowing%20cyan%20connect%20button%2C%20violet%20accent%2C%20black%20background%2C%20neon%20cyber%20ui%2C%20clean%20vertical%20phone%20layout&width=540&height=1130&seq=dgm-store-screen-1&orientation=portrait",
+      "sizes": "540x1130",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://readdy.ai/api/search-image?query=dark%20mobile%20app%20dashboard%20mockup%20with%20three%20neon%20stat%20tiles%20and%20a%20glowing%20update%20button%2C%20cyan%20and%20violet%20accents%2C%20black%20background%2C%20futuristic%20vpn%20control%20panel%2C%20phone%20layout&width=540&height=1130&seq=dgm-store-screen-2&orientation=portrait",
+      "sizes": "540x1130",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://readdy.ai/api/search-image?query=dark%20mobile%20app%20country%20list%20mockup%20with%20flag%20icons%20and%20neon%20type%20filter%20chips%2C%20cyan%20violet%20accents%2C%20black%20background%2C%20secure%20tunnel%20servers%20list%2C%20phone%20layout&width=540&height=1130&seq=dgm-store-screen-3&orientation=portrait",
+      "sizes": "540x1130",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://readdy.ai/api/search-image?query=app%20icon%20with%20bold%20glowing%20neon%20letters%20DGM%20in%20cyan%20and%20violet%20on%20pure%20black%20background%2C%20centered%2C%20minimal%2C%20high%20contrast%2C%20clean%20sharp%20edges%2C%20square%20format%2C%20dark%20cyber%20tech%20aesthetic&width=192&height=192&seq=dgm-pwa-icon-192&orientation=squarish",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://readdy.ai/api/search-image?query=app%20icon%20with%20bold%20glowing%20neon%20letters%20DGM%20in%20cyan%20and%20violet%20on%20pure%20black%20background%2C%20centered%2C%20minimal%2C%20high%20contrast%2C%20clean%20sharp%20edges%2C%20square%20format%2C%20dark%20cyber%20tech%20aesthetic&width=512&height=512&seq=dgm-pwa-icon-512&orientation=squarish",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://readdy.ai/api/search-image?query=app%20icon%20with%20bold%20glowing%20neon%20letters%20DGM%20in%20cyan%20and%20violet%20on%20pure%20black%20background%2C%20centered%2C%20minimal%2C%20high%20contrast%2C%20clean%20sharp%20edges%2C%20square%20format%2C%20dark%20cyber%20tech%20aesthetic&width=512&height=512&seq=dgm-pwa-icon-512&orientation=squarish",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
